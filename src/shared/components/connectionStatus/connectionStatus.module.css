@@ -1,0 +1,19 @@
+.statusWrapper {
+    margin: 0 10px;
+    display: flex;
+}
+
+.connected {
+    background-color: green;
+}
+
+.disconnected {
+    background-color: red;
+}
+
+.connected, .disconnected {
+    margin-left: 20px;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+}

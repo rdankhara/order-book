@@ -1,0 +1,37 @@
+.container {
+    padding: 10px;
+}
+
+.productSelectionContainer {
+    display: flex;
+    margin: 10px 0px;
+}
+
+.fieldContainer {
+    display: flex;
+}
+
+.label {
+    width: 120px;
+    margin-right: 10px;
+}
+
+.orderBookWrapper {
+    width: 100%;
+    display: flex;
+}
+
+.stopButton {
+    margin-left: 20px;
+}
+
+.startButton {
+    margin-left: 20px;
+}
+
+.lastUpdateWrapper {
+    padding: 10px 0px;
+    display: flex;
+}
+
+.lastUpdateWrapper > span { margin-right: 10px}
